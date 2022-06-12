@@ -1,4 +1,4 @@
-﻿using Exiled.API.Features;
+using Exiled.API.Features;
 using Exiled.Events.EventArgs;
 using UnityEngine;
 using System;
